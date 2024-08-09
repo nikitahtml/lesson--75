@@ -70,6 +70,7 @@ const Decoder: React.FC = () => {
             />
         </div>
     );
+
 };
 
 export default Decoder;

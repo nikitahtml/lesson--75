@@ -69,6 +69,7 @@ const Encoder: React.FC = () => {
                 multiline
                 InputProps={{ readOnly: true }}
             />
+
         </div>
     );
 };
